@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1709578957 source:d:\myc++projects\primenumber\tik-tok\tik-tak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
+1716375476 source:d:\myc++projects\tik-tak\tik-tok\tik-tak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
